@@ -71,4 +71,4 @@ try:
         sleep(DISPLAY_SPEED)
 except KeyboardInterrupt:
     # Clear the sense hat when the display is over.
-sense.clear()
+    sense.clear()
